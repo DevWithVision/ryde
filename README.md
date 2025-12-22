@@ -15,31 +15,10 @@
 
 <h3 align="center">Full Stack Uber Clone</h3>
 
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
-## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🖇️ [Links](#links)
-7. 📦 [Assets](#assets)
-8. 🚀 [More](#more)
 
-## 🚨 Tutorial
-
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube
-channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>.
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects
-like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/kmy_YNhl0mw" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -48,10 +27,9 @@ handling payments, serverless Postgres for managing databases, and styled with T
 mobile app. The primary goal is to demonstrate how to develop full-stack mobile applications to showcase the developer's
 skills in a unique manner that creates a lasting impact.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+**
-members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -1723,7 +1701,6 @@ You can find important links mentioned in the YouTube video below:
 - <a href="https://jb.gg/JSMastery" target="_blank">Download FREE WebStorm</a>
 - <a href="https://neon.tech/" target="_blank">Serverless NeonDB</a>
 - <a href="https://go.clerk.com/DtiSBEI" target="_blank">Clerk Auth</a>
-- <a href="https://courses.jsmastery.pro/course/databases" target="_blank">Database Mastery Course</a>
 - <a href="https://clerk.com/docs/quickstarts/expo" target="_blank">Clerk Expo Quickstart</a>
 - <a href="https://clerk.com/docs/custom-flows/oauth-connections" target="_blank">Clerk Expo OAuth</a>
 - <a href="https://www.geoapify.com/" target="_blank">Geoapify Map</a>
@@ -1731,17 +1708,6 @@ You can find important links mentioned in the YouTube video below:
   Stripe React Native SDK</a>
 - <a href="https://docs.stripe.com/payments/accept-a-payment-deferred" target="_blank">Stripe</a>
 
-## <a name="assets">📦 Assets</a>
 
-Assets used in the project can be
-found [here](https://drive.google.com/file/d/1ekttG-aCyy4g0SKqLSrEn_uHf2MJMRJ4/view?usp=sharing)
 
-## <a name="more">🚀 More</a>
 
-**Advance your skills with Next.js Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning experience. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://www.jsmastery.pro/ultimate-next-course" target="_blank">
-<img src="https://i.ibb.co/804sPK6/Image-720.png" alt="Project Banner">
-</a>
